@@ -130,3 +130,14 @@ Phone Number: 0771611903
  Email: rashidnaleef12@gmail.com 
 Registration Date: 2025-05-19
 
+New User Registration:
+Username: assem
+Password: 123
+Full Name: aseem
+Address: kinniya
+Phone Number: 0789471872
+ Age: 24
+ Gender: female
+ Email: ewfsdfsghgfdsa
+Registration Date: 2025-08-27
+
